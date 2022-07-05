@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:intl/intl.dart';
-import 'package:personal_expenses/widgets/test.dart';
-import 'package:personal_expenses/widgets/test2.dart';
+import 'package:layout_practice/widgets/test.dart';
 
 void main(List<String> args) {
   runApp(MyDemos());
@@ -24,18 +23,18 @@ class MyDemos extends StatelessWidget {
     'l',
     'm',
     'n',
-    'o',
-    'p',
-    'q',
-    'r',
-    's',
-    't',
-    'u',
-    'v',
-    'w',
-    'x',
-    'y',
-    'z'
+    'O',
+    'P',
+    'Q',
+    'R',
+    'S',
+    'T',
+    'U',
+    'V',
+    'W',
+    'X',
+    'Y',
+    'Z'
   ];
   @override
   Widget build(BuildContext context) {
